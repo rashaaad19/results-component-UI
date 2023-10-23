@@ -12,7 +12,7 @@ const StatsComponent = () => {
               color: "hsla(0, 100%, 67%,100%)",
             }}
             title="Reaction"
-            img="/public/assets/images/icon-reaction.svg"
+            img="/assets/images/icon-reaction.svg"
             data="80"
           />
           <StatsCard
@@ -21,7 +21,7 @@ const StatsComponent = () => {
               color: "hsla(39, 100%, 56%,100%)",
             }}
             title="Memory"
-            img="/public/assets/images/icon-memory.svg"
+            img="/assets/images/icon-memory.svg"
             data="92"
           />
           <StatsCard
@@ -30,7 +30,7 @@ const StatsComponent = () => {
               color: "hsla(166, 100%, 37%,100%)",
             }}
             title="Verbal"
-            img="/public/assets/images/icon-verbal.svg"
+            img="/assets/images/icon-verbal.svg"
             data="61"
           />
           <StatsCard
