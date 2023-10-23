@@ -11,7 +11,7 @@
   justify-content: space-evenly;
 }
 .container button {
-        background: linear-gradient(rgb(36, 33, 202, 70%), rgb(78, 33, 202));
+  background: rgb(48, 59, 90) ;
         border-radius: 20px;
         cursor: pointer;
         padding: 15px;
@@ -24,7 +24,8 @@
       
 }
 .container button:hover {
-  background: rgb(48, 59, 90) ;
+  background: linear-gradient(rgb(36, 33, 202, 70%), rgb(78, 33, 202));
+
 }
 
 
