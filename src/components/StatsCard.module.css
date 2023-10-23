@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    width: 15rem;
+    padding: 10px 15px;
+    border-radius: 11px;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+.leftSide{
+    display: flex;
+    align-items: center;
+    gap: 5%;
+}
