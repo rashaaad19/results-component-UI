@@ -39,7 +39,7 @@ const StatsComponent = () => {
               color: "hsla(234, 85%, 45%,100%)",
             }}
             title="Visual"
-            img="/public/assets/images/icon-visual.svg"
+            img="/assets/images/icon-visual.svg"
             data="72"
           />
         </div>
